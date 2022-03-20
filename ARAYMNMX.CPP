@@ -4,7 +4,7 @@ void main()
 {int arr[100];
 int i,mx,mn,n;
 clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 printf("enter the numbers to store in array=");
 scanf("%d",&n);
 printf("enter %d elements in the array:\n",n);
