@@ -4,7 +4,7 @@ void main()
 {
 int line,row,col,value=0;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit");
 printf("\n enter the number of lines=");
 scanf("%d",&line);
 for(row=1;row<=line;row++)
