@@ -4,7 +4,7 @@ void main()
 {
 int time;
 clrscr();
-printf("SHUBAHM");
+printf("Mudit");
 printf("\n enter the time=");
 scanf("%d",&time);
 if(time<12)
