@@ -3,7 +3,7 @@
 int main()
 {
     int num1, num2, num3;
-    printf("Aatif\n");
+    printf("Mudit\n");
  
     printf("Enter the values of num1, num2 and num3\n");
     scanf("%d %d %d", &num1, &num2, &num3);
