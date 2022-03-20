@@ -4,7 +4,7 @@
 void main()
 {float area,r=2;
 clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 area=pi*r*r;
 printf("area=%f",area);
 getch(); }
