@@ -3,7 +3,7 @@
 void main()
 {float c,f;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit");
 printf("\n enter temperature in degree celcius=");
 scanf("%f",&c);
 f=(c*9/5)+32;
