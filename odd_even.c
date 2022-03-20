@@ -2,7 +2,7 @@
 int main()
 {
     int Number;
-    printf("Aatif\n");
+    printf("Mudit\n");
     printf("Enter the number:");
     scanf("%d",&Number);
     if(Number%2==0)
