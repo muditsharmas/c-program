@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 int x,y;
 int swap(int *,int *);
 printf("enter the value of x and y=\n");
