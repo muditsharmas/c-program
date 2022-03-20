@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Aatif\n");
+    printf("Mudit\n");
     float eng, phy, chem, math, comp,bio; 
     float total, average, percentage;
 
