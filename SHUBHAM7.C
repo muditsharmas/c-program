@@ -3,7 +3,7 @@
 void main()
 {int a,b,c,greatest;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit/");
 printf("\n enter three numbers\n");
 scanf("\n %d%d%d",&a,&b,&c);
 greatest=(a>b)?((a>c)?a:c):((b>c)?b:c);
