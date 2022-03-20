@@ -5,7 +5,7 @@ void main()
 {int age,count=0,x=1;
 float weight;
 clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 printf("enter the age \n");
 printf("and weight of 5 students=\n");
 do {
