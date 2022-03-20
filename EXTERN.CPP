@@ -4,7 +4,7 @@ int x=12;
 void main()
 {extern int y;
 clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 printf("x=%d \ny=%d",x,y);
 getch();
 }
