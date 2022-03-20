@@ -3,6 +3,6 @@
 #include<conio.h>
 void main()
 {
-	printf("Hello!");
+	printf("Hello Mudit!");
 	getch();
 }
