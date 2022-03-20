@@ -3,7 +3,7 @@
 void main()
 {
 clrscr();
-printf("SHUBHAM");
+printf("Mudit/");
 printf("");
 getch();
 }
