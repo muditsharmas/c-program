@@ -4,7 +4,7 @@ int checkPrimeNumber(int n);
 void main()
 {int n,flag;
 clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 printf("enter a positive interger=");
 scanf("%d",&n);
 flag=checkPrimeNumber(n);
