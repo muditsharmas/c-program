@@ -3,7 +3,7 @@
 void main()
 {int a;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit/n");
 printf("\n enter a number=");
 scanf("\n %d",&a);
 if(a>=100&a<=1000)
