@@ -4,7 +4,7 @@ void main()
 {char A;
 clrscr();
 A='L';
-printf("SHUBHAM");
+printf("Mudit/");
 printf("\n %c",A);
 getch();
 }
