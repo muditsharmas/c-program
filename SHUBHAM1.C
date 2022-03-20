@@ -6,7 +6,7 @@ clrscr();
 c=a;
 a=b;
 b=c;
-printf("\n SHUBHAM");
+printf("\n Mudit/");
 printf("\n after swap value of a=%d \n",a);
 printf("\n after swap value of b=%d \n",b);
 getch();
