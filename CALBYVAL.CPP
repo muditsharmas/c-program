@@ -4,7 +4,7 @@ int sum(int ,int );
 void main()
 {int x=5,y=6;
 clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 printf("sum=%d",sum(x,y));
 getch();
 }
