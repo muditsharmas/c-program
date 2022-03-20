@@ -3,7 +3,7 @@
 void main()
 {int chem,C,ICIT,TC,WT,g,f;
 clrscr();
-printf("\n SHUBHAM");
+printf("\n Mudit/");
 printf("\n enter the value of chem");
 scanf("%d",&chem);
 printf("enter the value of C");
