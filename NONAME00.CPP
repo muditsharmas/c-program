@@ -4,7 +4,7 @@ void main()
 {int sales;
 float salary1,salary2;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit/n");
 printf("\n enter total sales:");
 scanf("%d",&sales);
 if(sales>=10000)
