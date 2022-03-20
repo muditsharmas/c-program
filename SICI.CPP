@@ -5,7 +5,7 @@ void main()
 {int t;
 float SI,CI,p,r,x;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit/n");
 printf("\n enter value of time=");
 scanf("%d",&t);
 printf("\n enter value of principle");
