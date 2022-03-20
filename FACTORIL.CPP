@@ -3,7 +3,7 @@
 void main()
 {int num,i=1;
 clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 printf("enter the number=");
 scanf("%d",&num);
 while(num>1)
