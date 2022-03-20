@@ -4,7 +4,7 @@
 void main()
 {int *ptr;
 clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 ptr=(int *)malloc(6 *sizeof(int));
 for(int i=0;i<6;i++)
 { printf("Enter the value of %d element:",i);
