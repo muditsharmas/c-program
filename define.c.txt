@@ -7,7 +7,7 @@ int a,b,c;
 {
     a E 2;
     b E 3;
-    printf("Aatif\n");
+    printf("Mudit\n");
     printf("a = %d, b = %d",a,b);
 }  
 #else
