@@ -12,7 +12,7 @@ return f;
 void main()
 {int a;
 clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 printf("Enter the number=");
 scanf("%d",&a);
 printf("%d!=%d",a,factorial(a));
