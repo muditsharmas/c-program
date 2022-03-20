@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {clrscr();
-printf("\n SHUBHAM");
+printf("\n Mudit/");
 printf("\n hello");
 getch();
 }
