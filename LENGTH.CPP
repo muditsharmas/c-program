@@ -5,7 +5,7 @@ void main()
 {char a[20];
 int length;
 clrscr();
-printf("SHUBHAM\n");
+printf("Mudit\n");
 printf("Enter the string=");
 gets(a);
 length=strlen(a);
