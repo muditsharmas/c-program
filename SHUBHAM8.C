@@ -3,7 +3,7 @@
 void main()
 {float r,A,P;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit/");
 printf("\n enter the value of radius of circle");
 scanf("%f",&r);
 A=3.14*r*r;
