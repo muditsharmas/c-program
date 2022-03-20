@@ -5,7 +5,7 @@ void main()
 clrscr();
 printf("Enter the rows=");
 scanf("%d",&rows);
- printf("SHUBHAM\n");
+ printf("Mudit\n");
 printf("Diamond star pattern\n");
 for(i=0;i<=rows;i++)   {
   for(j=1;j<=rows-i;j++)  {
