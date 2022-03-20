@@ -3,7 +3,7 @@
 #define number 19
 void main()
 {clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 #if (number>0)
 printf("value of number greater than 0 is=%d",number);
 #else
