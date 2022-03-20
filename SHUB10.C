@@ -3,7 +3,7 @@
 void main()
 {int a;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit");
 printf("\n enter value of a");
 scanf("%d",&a);
 if(a%2==0)
