@@ -3,7 +3,7 @@
 void main()
 {int a,sum=0,n,b;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit");
 printf("\n enter number=
 ");
 scanf("%d",&a);
