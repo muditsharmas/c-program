@@ -27,6 +27,6 @@
                { 
                    for ( j = 0; j < N; ++j) 
                         printf("%6d ", a[i][j]); 
-                        printf("\n"); 
+                        printf("Mudit\n"); 
                } 
      }  
