@@ -1,6 +1,6 @@
 #include<stdio.h>
   int main()
- {
+ {printf("Mudit\n");
     float bs,gs,da,hra;
     printf("Enter Basic Salary: ");
     scanf("%f",&bs);
