@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main()
-{
+{printf("Mudit/n");
     int X[3][2], i,j,row,col;
     printf("\nenter the elements of array ");
     for(i=0;i<3;i++)
