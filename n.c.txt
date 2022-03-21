@@ -1,6 +1,6 @@
 /*#include <stdio.h>
 int main()
-{
+{printf("Mudit/n");
     int N, i, j, is_up = 1, is_low = 1, a;
     scanf("%d", &N);
 
