@@ -5,7 +5,7 @@
 #define MIN(x, y) (x < y ? x : y)
 
 int main()
-{
+{printf("Mudit\n");
     int num1, num2;
 
     printf("Enter any two number to check max and min: ");
