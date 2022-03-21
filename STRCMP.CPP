@@ -6,7 +6,7 @@ void main()
 char b[]="hey";
 char c[10];
 clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 printf("the strcmp for a,b %d",strcmp(a,b));
 getch();
 }
