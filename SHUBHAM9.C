@@ -3,7 +3,7 @@
 void main()
 {int a;
 clrscr();
-printf("SHUBHAM");
+printf("Mudit\n");
 printf("\n %d bits",sizeof(a));
 getch();
 }
