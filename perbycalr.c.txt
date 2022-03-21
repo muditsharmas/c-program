@@ -3,7 +3,7 @@
 void area_peri( int , int* , int*);
 void main()
 
-{
+{Printf("Mudit\n");
 int r , p , a;
 
 printf("Enter the radius of the circle\n");
