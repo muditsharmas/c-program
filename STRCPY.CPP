@@ -6,7 +6,7 @@ void main()
 char b[3]="hey";
 char c[10];
 clrscr();
-printf("SHUBHAM\n");
+printf("\n");
 strcpy(c,strcat(a,b));
 puts(c);
 getch();}
