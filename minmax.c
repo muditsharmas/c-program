@@ -3,7 +3,7 @@
 #define MAX(x,y) ((x>y)?x:y)
 
 int main()
-{
+{printf("mudit\n");
 	int a,b,max;
 	
 	printf("Enter first number: ");
