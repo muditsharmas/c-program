@@ -7,7 +7,7 @@ void matrices(int *p, int *row, int *col){
             {
                 printf("%d ", *(p+i+j));
                 if(j == *col-1){
-                    printf("\n\n");
+                    printf("\n Mudit\n");
                 }
 
             }
